@@ -13,7 +13,7 @@ A responsive Pokémon Gallery built with **React** and **Tailwind CSS**, display
  📸 Demo
 
 
-![screenshot](./img.png)
+![screenshot](img.png)
 
 
 ## 🚀 Features
