@@ -12,9 +12,8 @@ A responsive Pokémon Gallery built with **React** and **Tailwind CSS**, display
 
  📸 Demo
 
+![My Web App Banner](./img.png)
 
-![screenshot](img.png)
-<img src="https://github.com/AGUNAN/pokemon-gallery/img.png/preview.png?raw=true" alt="Full Preview" width="100%" />
 
 
 
