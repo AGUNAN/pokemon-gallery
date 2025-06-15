@@ -9,13 +9,13 @@
 
 A responsive Pokémon Gallery built with **React** and **Tailwind CSS**, displaying Pokémon cards with filtering, search functionality, and dynamic data rendering.
 
----
 
-## 📸 Demo
+ 📸 Demo
+<img src="img.png" alt="Gallery" width="100%" />
+
 
 [screenshot](./img.png)
 
----
 
 ## 🚀 Features
 
